@@ -5,6 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/glebk/Desktop/College/Semester 5/CSE 383/FinalProject/CSE381-Final-Project/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"C:/Users/glebk/Desktop/College/Semester 5/CSE 383/FinalProject/CSE381-Final-Project/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/glebk/Desktop/College/Semester 5/CSE 383/FinalProject/CSE381-Final-Project/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
+				"C:/Users/glebk/Desktop/College/Semester 5/CSE 383/FinalProject/CSE381-Final-Project/Content/TopDown/Blueprints/WorkStation.uasset",
+				"C:/Users/glebk/Desktop/College/Semester 5/CSE 383/FinalProject/CSE381-Final-Project/Content/TopDown/Blueprints/MacroLibrary.uasset",
+				"C:/Users/glebk/Desktop/College/Semester 5/CSE 383/FinalProject/CSE381-Final-Project/Content/TopDown/E_Ingredients.uasset",
+				"C:/Users/glebk/Desktop/College/Semester 5/CSE 383/FinalProject/CSE381-Final-Project/Content/TopDown/Blueprints/BP_StationBarProgress.uasset",
+				"C:/Users/glebk/Desktop/College/Semester 5/CSE 383/FinalProject/CSE381-Final-Project/Content/TopDown/Blueprints/BP_Stove.uasset",
+				"C:/Users/glebk/Desktop/College/Semester 5/CSE 383/FinalProject/CSE381-Final-Project/Content/TopDown/Blueprints/W_IngredientSelect.uasset",
+				"C:/Users/glebk/Desktop/College/Semester 5/CSE 383/FinalProject/CSE381-Final-Project/Content/TopDown/Blueprints/W_IngredientButton.uasset",
+				"C:/Users/glebk/Desktop/College/Semester 5/CSE 383/FinalProject/CSE381-Final-Project/Content/TopDown/Maps/TopDownMap.umap",
+				"C:/Users/glebk/Desktop/College/Semester 5/CSE 383/FinalProject/CSE381-Final-Project/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/8H/SS373EQIXSAUJMYYQGDZXT.uasset",
+				"C:/Users/glebk/Desktop/College/Semester 5/CSE 383/FinalProject/CSE381-Final-Project/Content/TopDown/Blueprints/BP_Pots.uasset",
+				"C:/Users/glebk/Desktop/College/Semester 5/CSE 383/FinalProject/CSE381-Final-Project/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/Q8/L5S8JYW1DOX9RBFLPYVNNX.uasset",
+				"C:/Users/glebk/Desktop/College/Semester 5/CSE 383/FinalProject/CSE381-Final-Project/Content/TopDown/Blueprints/StationBarProgress.uasset",
+				"C:/Users/glebk/Desktop/College/Semester 5/CSE 383/FinalProject/CSE381-Final-Project/Content/TopDown/Blueprints/BP_WorkStation.uasset",
 				"D:/Unreal Projects/catsudon/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
 			]
 		}
