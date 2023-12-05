@@ -5,7 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Unreal Projects/catsudon/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+				"D:/Unreal Projects/catsudon/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"D:/Unreal Projects/CSE381_Final_Project_Git/Content/Inventory/Inventory_Widget.uasset",
+				"D:/Unreal Projects/CSE381_Final_Project_Git/Content/Inventory/Line.uasset",
+				"D:/Unreal Projects/CSE381_Final_Project_Git/Content/Inventory/Tile.uasset",
+				"D:/Unreal Projects/CSE381_Final_Project_Git/Content/Inventory/SB_Color.uasset",
+				"D:/Unreal Projects/CSE381_Final_Project_Git/Content/Inventory/Inventory_Component.uasset",
+				"D:/Unreal Projects/CSE381_Final_Project_Git/Content/Inventory/Inventory_Grid.uasset",
+				"D:/Unreal Projects/CSE381_Final_Project_Git/Content/Inventory/Item_Widget.uasset",
+				"D:/Unreal Projects/CSE381_Final_Project_Git/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"D:/Unreal Projects/CSE381_Final_Project_Git/Content/Inventory/InventoryGrid_Widget.uasset"
 			]
 		}
 	]
