@@ -1,7 +1,0 @@
-2023/12/19-01:12:08.342 eac Reusing MANIFEST D:/Unreal Projects/CSE381_Final_Project_Git/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/12/19-01:12:08.350 eac Recovering log #3
-2023/12/19-01:12:08.351 eac Reusing old log D:/Unreal Projects/CSE381_Final_Project_Git/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000003.log 
-2023/12/19-01:14:02.700 4870 Level-0 table #5: started
-2023/12/19-01:14:02.775 4870 Level-0 table #5: 1167 bytes OK
-2023/12/19-01:14:02.806 4870 Delete type=0 #3
-2023/12/19-01:14:02.807 4870 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
